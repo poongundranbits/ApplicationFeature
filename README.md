@@ -12,13 +12,19 @@
 
 - 📫 How to reach me **2020mt93643@wilp.bits-pilani.ac.in**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/poongundra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poongundra" height="30" width="40" /></a>
+<a href="https://instagram.com/poongundra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poongundra" height="30" width="40" /></a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Nivetha V</h1>
 <h3 align="center">Am working as a RPA engineer</h3>
 
 - 🔭 Nivetha V [Find my profile here](https://2020mt93176.github.io/nivethabits.github.io/)
 
-<h1 align="center">Hi 👋, I'm Piyush Bhange E</h1>
+<h1 align="center">Hi 👋, I'm Piyush Bhange</h1>
 <h2 align="center">A working as Data engineer</h2>
 <h4 align="center"> my interest lies in online payment processing <h4>
 
