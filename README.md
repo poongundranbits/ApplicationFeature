@@ -1,6 +1,18 @@
+#Application Feature project
+
 <h1>OPEN SOURCE SOFTWARE ENGINEERING ASSIGNMENT-4</h1>
 
+
+
 <h1 align="center">Hi 👋, We are group of 3 memebers for this assignement.</h1>
+
+<p>
+This assignment is related to an application that contains all the feature details. This allow product owner to update all the features released on any product that contains features and all details about it, with the example screenshot of it.
+
+Fetaure details folder use to contain all the feature details component.</br>
+
+Edit folder use to contain all the features that are allow owners to edit.
+
 <h3 align="center">Find all our details  below </h3>
 
 <h1 align="center">Hi 👋, I'm Poongundran E</h1>
